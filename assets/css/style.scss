@@ -260,6 +260,7 @@ a.navbar-item.is-active {
 #projects {
     .columns {
         .column {
+            display: flex;
             border-radius: 0.5rem;
             .image {
                 background-position: center;
@@ -276,15 +277,12 @@ a.navbar-item.is-active {
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
-        display: inline-block;
-        min-height: 100%;
         &:hover {
             transform: scale(0.975);
         }
     }
     .card {
         transition: all 0.25s ease;
-        min-height: 100%;
         &:hover {
             background-color: rgba($color: #000000, $alpha: 0.90)!important;
         }
