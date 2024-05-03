@@ -276,14 +276,13 @@ a.navbar-item.is-active {
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
-        display: inline-table;
+        display: inline-flex;
         &:hover {
             transform: scale(0.975);
         }
     }
     .card {
         transition: all 0.25s ease;
-        display: flex;
         &:hover {
             background-color: rgba($color: #000000, $alpha: 0.90)!important;
         }
