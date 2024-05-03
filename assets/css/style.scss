@@ -260,7 +260,6 @@ a.navbar-item.is-active {
 #projects {
     .columns {
         .column {
-            Align-items: stretch;
             border-radius: 0.5rem;
             .image {
                 background-position: center;
@@ -277,6 +276,7 @@ a.navbar-item.is-active {
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
+        height: 100%;
         &:hover {
             transform: scale(0.975);
         }
