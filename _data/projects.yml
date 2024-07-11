@@ -14,7 +14,7 @@
   link: https://github.com/shenghungKuan/NLP_ReinforcementLearning
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: This program implements Hidden Markov Model for Natural Language Processing and Reinforcement Learning for a dice game 'approach'
-#- name: Fifth Project
-#  link:
-#  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-#  description:
+- name: CNN Pokemon Classification
+ link: https://github.com/shenghungKuan/CNN_pokemon_classification
+ image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+ description: This project is a CNN model that classifies pokemons based on their images. The model is trained on a dataset of 949 pokemons and is able to classify pokemons with hamming loss of 0.2.
