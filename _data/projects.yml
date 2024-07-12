@@ -1,3 +1,11 @@
+- name: CNN Pokemon Classification
+  link: https://github.com/shenghungKuan/CNN_pokemon_classification
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  description: This project is a CNN model that classifies pokemons based on their images. The model is trained on a dataset of 949 pokemons and is able to classify pokemons with hamming loss of 0.2.
+- name: Number Tool Language
+  link: https://github.com/shenghungKuan/NTLang
+  image: https://cdn.pixabay.com/photo/2019/05/16/20/15/online-4208112_1280.jpg
+  description: A command line program that can interpret simple number tool language expressions for working with different number bases and bit widths.
 - name: Hotel Searcher
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/shenghungKuan/Hotel_Searcher
@@ -14,7 +22,3 @@
   link: https://github.com/shenghungKuan/NLP_ReinforcementLearning
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: This program implements Hidden Markov Model for Natural Language Processing and Reinforcement Learning for a dice game 'approach'
-- name: CNN Pokemon Classification
-  link: https://github.com/shenghungKuan/CNN_pokemon_classification
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: This project is a CNN model that classifies pokemons based on their images. The model is trained on a dataset of 949 pokemons and is able to classify pokemons with hamming loss of 0.2.
