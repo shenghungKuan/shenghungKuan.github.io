@@ -2,6 +2,10 @@
   link: https://github.com/shenghungKuan/CNN_pokemon_classification
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: This project is a CNN model that classifies pokemons based on their images. The model is trained on a dataset of 949 pokemons and is able to classify pokemons with hamming loss of 0.2.
+- name: RISC-V Emulation
+  link: https://github.com/shenghungKuan/risc-v-emulation
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpg
+  description: This is an emulator in C for a subset of the RISC-V Instruction Set Architecture (ISA). It also includes an implementation of a processor cache simulator for direct mapped and set associative caches.
 - name: Number Tool Language
   link: https://github.com/shenghungKuan/NTLang
   image: https://cdn.pixabay.com/photo/2019/05/16/20/15/online-4208112_1280.jpg
