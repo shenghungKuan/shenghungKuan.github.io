@@ -24,7 +24,7 @@
   description: A command line program that can interpret simple number tool language expressions for working with different number bases and bit widths.
 - name: Hotel Searcher
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link: https://github.com/shenghungKuan/Hotel_Searcher
+  link: https://github.com/shenghungKuan/hotel-search-engine
   description: A restful web application that can be used for hotel searching with login/signup functionality that allows users to access personalized features like search history and favorite hotels.
 - name: Command Line Shell
   link: https://github.com/shenghungKuan/Command_Line_Shell
