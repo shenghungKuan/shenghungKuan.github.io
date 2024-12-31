@@ -22,7 +22,7 @@
   link: https://github.com/shenghungKuan/NTLang
   image: https://cdn.pixabay.com/photo/2019/05/16/20/15/online-4208112_1280.jpg
   description: A command line program that can interpret simple number tool language expressions for working with different number bases and bit widths.
-- name: Hotel Searcher
+- name: Hotel Search Engine
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://github.com/shenghungKuan/hotel-search-engine
   description: A restful web application that can be used for hotel searching with login/signup functionality that allows users to access personalized features like search history and favorite hotels.
